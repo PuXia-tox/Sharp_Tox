@@ -11,7 +11,7 @@ role: Assistant Professor in Precision Toxicology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Birmingham
-    url: [https://www.stanford.edu/](https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu)
+    url: https://www.birmingham.ac.uk/staff/profiles/biosciences/xia-pu
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dr Pu Xia is an ecotoxicologist interested in understanding and predicting the molecular mechanisms underlying the toxicity of chemicals. His research focuses on the development and application of cutting-edge system toxicology approaches, including multi-omics, artificial intelligence, and adverse outcome pathway networks, to facilitate high-throughput screening and accurate prediction of chemical toxicity. Dr Pu Xia's pursuits are fundamentally oriented towards advancing the next-generation chemical risk assessment. Dr Pu Xia is a member of the Centre for Environmental Research and Justice (CERJ).
@@ -40,7 +40,7 @@ education:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: [https://www.linkedin.com/](https://www.linkedin.com/in/pu-xia-6b1945a0/)
+    link: https://www.linkedin.com/in/pu-xia-6b1945a0/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
