@@ -11,6 +11,7 @@ content:
   user_groups:
     - Principal Investigator
     - Postdocs
+    - Affiliated Researchers
     - PhD Students
     - Master Students
     - Visiting Scholars and Students
